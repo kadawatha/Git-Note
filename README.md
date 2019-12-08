@@ -4,6 +4,38 @@
 
 
 
+```
+
+git add README.md
+
+```
+
+<hr>
+
+```
+
+git status
+
+```
+
+
+<hr>
+
+```
+
+git commit -m "first file in demo repo"
+
+```
+
+<hr>
+
+```
+
+ls -al
+
+```
+
+
 **git account register**
 
     git --version
