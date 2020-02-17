@@ -1,5 +1,18 @@
 # Git-Note
 
+bitbucket push
+
+```
+
+ git push --set-upstream https://kadawatha@bitbucket.org/kadawatha/test-again.git master
+
+```
+
+
+
+
+
+
     git add -A
 
 
