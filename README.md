@@ -6,7 +6,7 @@
  <li>  checkout commit id and create new branch (ex : circle-change)</li>
  <li>  working new fearure in circle-change branch and commit files </li>
  <li>  switch to master branch and continue changing and commit files </li>
- <li>  now we need to merge our circle-change , do merge into current  </li>
+ <li>  now we need to merge our circle-change branch to master branch , do checkout and merge into current  </li>
  <li>  now we need don't need to cicle branch any more , we can delete  circle-change branch  </li>
 </ol>
 
