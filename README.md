@@ -10,7 +10,15 @@
  <li>  now we need don't need to cicle branch any more , we can delete  circle-change branch  </li>
 </ol>
 
+#### rebase changes
 
+<ol>
+  <li> checkout commit id and create new branch (rebase branch) </li>
+  <li> do commit in new rebase branch </li>
+  <li> checkout master branch </li>
+  <li> go to rebase branch and do rebase into current </li>
+  <li> now we don't need rebase branch , delete rebase branch</li>
+</ol>
 
 </hr>
 
