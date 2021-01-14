@@ -20,7 +20,21 @@
   <li> now we don't need rebase branch , delete rebase branch</li>
 </ol>
 
+
+#### merge into specific commit
+
+<ol>
+  <li> checkout commit and create a new branch(changes) </li>
+  <li> do commit in changes branch </li>
+  <li> checkout spacific commit and create new branch </li>
+  <li> go to changes branch and merge into current </li>
+  <li> checkout master branch last commit </li>
+  <li> go to merge commit and , do merge into current  </li>
+</ol>
+
+
 </hr>
+
 
 bitbucket push
 
