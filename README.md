@@ -36,6 +36,15 @@
 </hr>
 
 
+how to add image
+
+```
+![ajaxcrud](docs/theme.JPG)
+
+```
+
+
+
 bitbucket push
 
 ```
