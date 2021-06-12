@@ -119,3 +119,65 @@ ls -al
 `git push origin :old_branch_name new_branch_name`
 
 <p> (example - : git push origin :v0_1_O v0_2_0)  </p>
+
+
+redshift ubuntu -O 3000
+
+
+sudo systemctl stop nginx
+
+
+
+
+
+-----------------------------
+
+
+
+
+
+sudo systemctl start docker
+
+sudo systemctl status docker
+
+sudo systemctl enable docker
+
+sudo docker ps
+
+sudo docker run -p 3000:80 nginx
+
+http://localhost:3000/
+
+sudo docker ps -a
+
+sudo docker pause fe1f71042611
+
+sudo docker rm fe1f71042611
+
+sudo docker stop f76486678b29
+
+
+
+--------------------------
+
+
+Assign Ownership to the Docker Unix Socket
+
+
+sudo ls -la /var/run/docker.sock
+sudo chown dhanushka:docker /var/run/docker.sock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
