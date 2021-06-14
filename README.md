@@ -121,18 +121,21 @@ ls -al
 <p> (example - : git push origin :v0_1_O v0_2_0)  </p>
 
 
-redshift ubuntu -O 3000
-
-
-sudo systemctl stop nginx
-
-
-
 
 
 -----------------------------
 
 
+</hr>
+
+</hr>
+
+
+
+redshift ubuntu -O 3000
+
+
+sudo systemctl stop nginx
 
 
 
