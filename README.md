@@ -167,8 +167,19 @@ sudo docker stop f76486678b29
 Assign Ownership to the Docker Unix Socket
 
 
+```
+
 sudo ls -la /var/run/docker.sock
+
+```
+
+```
 sudo chown dhanushka:docker /var/run/docker.sock
+
+```
+
+
+
 
 
 
