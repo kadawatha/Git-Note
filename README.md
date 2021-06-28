@@ -179,7 +179,11 @@ sudo chown dhanushka:docker /var/run/docker.sock
 ```
 
 
+```
+sudo mkdir /var/szDirectoryName
+sudo chmod a+rwx /var/szDirectoryName
 
+```
 
 
 
