@@ -187,7 +187,23 @@ sudo chmod a+rwx /var/szDirectoryName
 
 
 
+```
 
+sudo /opt/lampp/lampp start
+
+sudo /opt/lampp/lampp stop
+
+
+sudo systemctl stop nginx
+
+sudo service mysql start 
+sudo service mysql stop 
+sudo service mysql restart
+
+sudo service mysql stop
+
+
+```
 
 
 
