@@ -36,6 +36,21 @@
 </hr>
 
 
+
+share project on bitbucket
+
+
+
+```
+
+git remote add origin https://kadawatha@bitbucket.org/kadawatha/wear-house-2121-417-09.git 
+git push -u origin master
+
+
+```
+
+
+
 how to add image
 
 ```
